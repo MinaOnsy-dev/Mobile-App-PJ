@@ -11,7 +11,7 @@
 
 ---
 
-## ✨Features
+## Features
 
 - **Category-based browsing** — General, Business, Entertainment, Health, Science, Technology, and Sports, each with its own headline feed
 - **Live news feed** powered by the [NewsAPI](https://newsapi.org/) REST API
@@ -20,9 +20,6 @@
 - **Real-time connectivity awareness** — automatically detects when the device goes offline and shows a friendly "No Internet Connection" state instead of failed requests
 - **State management with Provider** for reactive connectivity updates across the app
 
-| Home | Category | Article |
-|:---:|:---:|:---:|
-| _screenshot_ | _screenshot_ | _screenshot_ |
 
 ##  Tech Stack
 
@@ -98,7 +95,7 @@ lib/
    flutter run
    ```
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [ ] Move the API key out of source code (`--dart-define` / `.env`)
 - [ ] Add search functionality
@@ -107,7 +104,7 @@ lib/
 - [ ] Add pull-to-refresh on the news feed
 - [ ] Localize headlines beyond the `us` country code
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues) or open a pull request.
 
@@ -117,11 +114,11 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
+## Author
 
 **Mina Onsy**
 
